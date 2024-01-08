@@ -2,88 +2,88 @@
 
 - Language
   - Object: 👂 heard
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 🖐️ used
+  - call: 🎓 known
+  - bind: 🎓 known
+  - apply: 🎓 known
+  - instanceof: 🖐️ used
+  - ...spread: 🖐️ used
+  - ...rest: 🖐️ used
+  - typeof: 🖐️ used
+  - destructuring: 🖐️ used
   - generator
   - iterator: 👂 heard
   - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
+  - async iterator: 🎓 known
+  - chaining: 🎓 known
+  - optional chaining: 🎓 known
+  - IIFE: 🖐️ used
+  - global: 🖐️ used
+  - globalThis: 🖐️ used
+  - window: 🎓 known
+  - getters and setters: 🖐️ used
   - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - prototype: 🖐️ used
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
+  - yield: 👂 heard
+  - await: 🖐️ used
+  - template literal: 👂 heard
+  - strict mode: 🖐️ used
+  - delete: 🖐️ used
+  - in: 🖐️ used
+  - super: 🖐️ used
+  - Symbol: 👂 heard
+  - Reflect: 👂 heard
 - Statements
-  - if: 👂 heard
-  - while
-  - do..while
-  - for: 👂 heard
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break: 👂 heard
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class: 👂 heard
-  - new Error
-  - with
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
+  - for await: 🖐️ used
+  - throw: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
+  - label: 🖐️ used
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - new Error: 🖐️ used
+  - with: 🖐️ used
 - Functions
-  - function declaration: 👂 heard
-  - function expression
-  - return: 👂 heard
-  - default parameters
-  - functional object
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
+  - functional object: 🖐️ used
 - Data structures
-  - Array: 👂 heard
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - Array: 🖐️ used
+  - mixin: 🖐️ used
+  - extend: 🖐️ used
+  - typed arrays: 🖐️ used
+  - Map: 👂 heard
+  - Set: 👂 heard
+  - undefined: 🎓 known
+  - null: 🎓 known
+  - Proxy: 👂 heard
+  - weak collections: 👂 heard
+  - timers: 👂 heard
+  - EventEmitter: 👂 heard
+  - RegExp: 👂 heard
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
+  - V8: 👂 heard
+  - Node.js: 👂 heard
+  - npm: 👂 heard
   - prettier
   - MDN
