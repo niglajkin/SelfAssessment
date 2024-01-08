@@ -1,7 +1,7 @@
 ## JavaScript
 
 - Language
-  - Object
+  - Object: 👂 heard
   - this
   - arrow function
   - async function
@@ -14,7 +14,7 @@
   - typeof
   - destructuring
   - generator
-  - iterator
+  - iterator: 👂 heard
   - async generator
   - async iterator
   - chaining
@@ -41,32 +41,32 @@
   - Symbol
   - Reflect
 - Statements
-  - if
+  - if: 👂 heard
   - while
   - do..while
-  - for
+  - for: 👂 heard
   - for..in
   - for..of
   - for await
   - throw
-  - break
+  - break: 👂 heard
   - continue
   - import
   - export
   - label
   - try..catch
   - switch
-  - class
+  - class: 👂 heard
   - new Error
   - with
 - Functions
-  - function declaration
+  - function declaration: 👂 heard
   - function expression
-  - return
+  - return: 👂 heard
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 👂 heard
   - mixin
   - extend
   - typed arrays
