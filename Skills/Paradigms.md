@@ -1,19 +1,19 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming: h
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming: h
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: u
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
+  - Asynchronous programming: h
+  - Parallel programming: h
+  - Reactive programming: h
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -27,27 +27,27 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Constructor: u
+  - Operator `new`: u
+  - Static method: u
+  - Method: u
+  - Async method: h
+  - Getters, Setters: u
+  - Public fields: u
+  - Private fields: u
+  - Field declarations: u
+  - Inheritance: u
+  - Parent class: k
+  - Polymorphism: k
+  - Abstract class: k
+  - Interface: u
+  - Encapsulation: k
   - Hidden class
   - Object form
-  - Instance
+  - Instance: k
   - Introspection
-  - Reflection
-  - The diamond problem
+  - Reflection: h
+  - The diamond problem: h
 - GRASP
   - Information expert
   - Creator
@@ -58,11 +58,11 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
+  - Single-responsibility principle (SRP): k
+  - Open–closed principle (OCP): h
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Dependency inversion principle (DIP): k 
 - Patterns
   - Singleton
   - Factory Method
