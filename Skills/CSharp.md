@@ -67,7 +67,6 @@
   - IDisposable
   - using
   - Span<T> and Memory<T>
-
 - Statements
   - if
   - else
@@ -82,12 +81,6 @@
   - return
   - throw
   - try..catch..finally
-  - checked
-  - unchecked
-  - fixed
-  - using
-  - lock
-
 - Standart objects and namespaces
   - System.Console
   - System.Math
@@ -107,7 +100,6 @@
   - System.Xml
   - System.Data
   - System.Numerics
-
 - OOP
   - class
   - struct
@@ -131,13 +123,11 @@
   - abstract
   - Constructors
   - Destructors
-  - this
   - Inheritance
   - Encapsulation
   - Polymorphism
   - Method overriding
   - Method hiding
-
 - Data Structures
   - Array
   - Tuple
@@ -155,7 +145,6 @@
   - ImmutableList<T>
   - ImmutableDictionary<TKey, TValue>
   - ArrayList
-
 - Linq
   - Method syntax
   - Query syntax
@@ -169,7 +158,6 @@
   - Sum
   - ElementAt
   - First and Last
-  - Single
   - Where
   - Select
   - Take
@@ -185,7 +173,6 @@
   - Join
   - Aggregate
   - Zip
-
 - Infrastructure
   - .NET Framework
   - .NET Core
