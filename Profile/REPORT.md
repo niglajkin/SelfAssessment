@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-162&nbsp;/&nbsp;298&nbsp;/&nbsp;731-FF3300?style=flat-square)](https://github.com/niglajkin/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-246&nbsp;/&nbsp;391&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/niglajkin/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-162&nbsp;/&nbsp;298&nbsp;/&nbsp;731-FF3300?style=flat-square)](https://github.com/niglajkin/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-246&nbsp;/&nbsp;391&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/niglajkin/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/niglajkin/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-162&nbsp;/&nbsp;298&nbsp;/&nbsp;731-FF3300?style=flat-square"></a>
+<a href="https://github.com/niglajkin/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-246&nbsp;/&nbsp;391&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -15,17 +15,17 @@
 | Unit | Marked | Of |
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `5` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `25` | `33` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Types | `2` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `23` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `29` | `33` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Types | `8` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `15` | `23` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `22` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `0` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `11` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `9` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `0` | `13` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `24` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `5` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `20` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `10` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `4` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `6` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `2` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `33` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `17` | `19` |
@@ -51,10 +51,10 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `0` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `0` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `25` |
-| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `0` | `21` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `6` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `18` | `21` |
 | &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `0` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `0` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `3` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `0` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `0` | `22` |

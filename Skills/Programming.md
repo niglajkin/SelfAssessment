@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model: 👂 heard
   - Modeling
-  - Subject domain
+  - Subject domain: 👂 heard
   - Algorithm: 👂 heard
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Syntax: 🎓 known
+  - Semantics: 👂 heard
+  - Abstraction: 🖐️ used
   - Paradigm: 👂 heard
-  - Programm
+  - Programm: 🎓 known
   - Programming paradigm
   - Programming language
   - Contract: 👂 heard
   - Module: 👂 heard
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
+  - Library: 🎓 known
+  - Package: 🎓 known
+  - Component: 👂 heard
+  - Framework: 👂 heard
+  - Platform: 👂 heard
+  - Source code: 🎓 known
   - Object code
-  - Machine code
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering
+  - Software engineering: 👂 heard
   - Decomposition: 👂 heard
-  - Control flow
+  - Control flow: 🖐️ used
   - Data flow
-  - Code reuse
+  - Code reuse: 🖐️ used
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY): 👂 heard
+  - KISS principle: 👂 heard
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
@@ -57,26 +57,26 @@
   - Interface: 👂 heard
   - Namespaces
   - Call stack: 👂 heard
-  - Naming conventions
+  - Naming conventions: 🖐️ used
   - Coding conventions
-  - Camel case
-  - Snake case
+  - Camel case: 🖐️ used
+  - Snake case: 🎓 known
   - Kebab case
-  - Trailing commas
+  - Trailing commas: 👂 heard
   - Return early: 👂 heard
   - Fail-fast
 - Types
   - Primitive types: 🖐️ used
   - Reference types: 🖐️ used
   - Type systems
-  - Strong typing
-  - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Strong typing: 👂 heard
+  - Weak typing: 👂 heard
+  - Duck typing: 👂 heard
+  - Static typing: 🖐️ used
+  - Dynamic typing: 🖐️ used
   - Nominal typing
   - Structural typing
-  - Explicit typing
+  - Explicit typing: 🖐️ used
   - Type inference
   - Covariance
   - Contravariance
@@ -112,62 +112,62 @@
   - Instance: 🖐️ used
   - Object: 🖐️ used
   - Collection: 🖐️ used
-  - Set: 👂 heard
-  - Hash table: 👂 heard
-  - Linked list: 👂 heard
-  - Doubly list: 👂 heard
+  - Set: 🎓 known
+  - Hash table: 🖐️ used
+  - Linked list: 🎓 known
+  - Doubly list: 🎓 known
   - Unrolled list: 👂 heard
   - Circular list: 👂 heard
-  - Queue: 👂 heard
-  - Stack: 👂 heard
-  - Deque
+  - Queue: 🎓 known
+  - Stack: 🎓 known
+  - Deque: 🚀 constructed
   - Tree: 👂 heard
-  - Graph: 👂 heard
+  - Graph: 🎓 known
   - Iterator: 🖐️ used
   - Mutable state: 🎓 known
   - Immutable state: 🎓 known
   - Serialization: 🖐️ used
   - String parsing: 🖐️ used
-  - JSON
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS: 🎓 known
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
+  - NAT: 👂 heard
+  - URL: 🖐️ used
   - URN
   - URI
 - Process and tools
   - Compiler: 🎓 known
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Just-in-time compilation: 🎓 known
+  - Ahead-of-time compilation: 🎓 known
   - Transpiler: 🎓 known
   - Linter: 🎓 known
   - Polyfill: 👂 heard
-  - Interpreter
-  - Linker
+  - Interpreter: 🎓 known
+  - Linker: 👂 heard
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime: 🎓 known
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger: 👂 heard
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection: 👂 heard
-  - Refactoring: 🎓 known
+  - Refactoring: 🖐️ used
   - Code review: 🎓 known
-  - Exception: 👂 heard
-  - Unittesting
+  - Exception: 🎓 known
+  - Unittesting: 👂 heard
   - git: 🖐️ used
   - Github: 🖐️ used
-  - Docker
-  - Kubernetes
+  - Docker: 👂 heard
+  - Kubernetes: 👂 heard
   - GCC
   - LLVM
 - Antipatterns
@@ -186,7 +186,7 @@
   - Duplicate code: 👂 heard
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops: 🎓 known
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -202,10 +202,10 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
-  - VJM
-  - CLR
+  - Bytecode: 👂 heard
+  - V8: 👂 heard
+  - VJM: 👂 heard
+  - CLR: 👂 heard
   - Mono
 - Operating systems
   - Interrupts
@@ -214,16 +214,16 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux: 👂 heard
+  - Unix: 👂 heard
   - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
+  - Real-time OS: 👂 heard
+  - Embedded OS: 👂 heard
 - Standards
   - ASCII
-  - Escape sequence
+  - Escape sequence: 👂 heard
   - RFC
   - IETF
   - IANA
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 👂 heard
   - W3C
   - ODMG
