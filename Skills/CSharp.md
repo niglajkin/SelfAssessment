@@ -1,179 +1,167 @@
 ## C#
 
 - Language
-  - Value and reference types: k
-  - Boolean: u
-  - Byte: k
+  - Value and reference types: 🎓 known
+  - Boolean: 🖐️ used
+  - Byte: 🎓 known
   - SByte
-  - Char: u
-  - Decimal: k
-  - Double: u
+  - Char: 🖐️ used
+  - Decimal: 🎓 known
+  - Double: 🖐️ used
   - Single
-  - Int32: u
-  - UInt32: k
-  - Int64: k
-  - UInt64: k
-  - Int16: k
-  - UInt16: k
-  - String: u
-  - Action: k
-  - Func: k
-  - Predicate: k
-  - Nullable<T>: h
-  - this: u
-  - typeof: k
-  - is: k
-  - as: h
-  - when: h
-  - null: k
-  - default: k
-  - var: u
+  - Int32: 🖐️ used
+  - UInt32: 🎓 known
+  - Int64: 🎓 known
+  - UInt64: 🎓 known
+  - Int16: 🎓 known
+  - UInt16: 🎓 known
+  - String: 🖐️ used
+  - Action: 🎓 known
+  - Func: 🎓 known
+  - Predicate: 🎓 known
+  - Nullable<T>: 👂 heard
+  - this: 🖐️ used
+  - typeof: 🎓 known
+  - is: 🎓 known
+  - as: 👂 heard
+  - when: 👂 heard
+  - null: 🎓 known
+  - default: 🎓 known
+  - var: 🖐️ used
   - dynamic
   - checked
   - unchecked
-  - const: u
+  - const: 🖐️ used
   - volatile
   - lock
   - unsafe
   - fixed
-  - sizeof: h
+  - sizeof: 👂 heard
   - stackalloc
-  - in: u
-  - ref: h
-  - out: h
-  - params: u
-  - yield: h
-  - await: h
-  - async: h
-  - Task: h
+  - in: 🖐️ used
+  - ref: 👂 heard
+  - out: 👂 heard
+  - params: 🖐️ used
+  - yield: 👂 heard
+  - await: 👂 heard
+  - async: 👂 heard
+  - Task: 👂 heard
   - ValueTask
   - IAsyncEnumerable<T>
   - IAsyncEnumerator<T>
-  - Lambda expressions: u
-  - Equality operators: u
-  - Logical operators: u
-  - Ternary operator: u
+  - Lambda expressions: 🖐️ used
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Ternary operator: 🖐️ used
   - null-coalescing operator ??
   - null-conditional operator ?.
-  - String interpolation: u
+  - String interpolation: 🖐️ used
   - Pattern matching
   - Indexers
-  - Expression-bodied members: u
-  - nameof: h
+  - Expression-bodied members: 🖐️ used
+  - nameof: 👂 heard
   - Attributes
-  - Extension methods: u
-  - Generic types: u
-  - Delegates: k
+  - Extension methods: 🖐️ used
+  - Generic types: 🖐️ used
+  - Delegates: 🎓 known
   - Covariance and contravariance
-  - Boxing and unboxing: k
+  - Boxing and unboxing: 🎓 known
   - IDisposable
-  - using: u
+  - using: 🖐️ used
   - Span<T> and Memory<T>
-
 - Statements
-  - if: u
-  - else: u
-  - switch: u
-  - while: u
-  - do..while: u
-  - for: u
-  - foreach: u
-  - break: u
-  - continue: u
-  - goto: k
-  - return: u
-  - throw: u
-  - try..catch..finally: u
-  - checked
-  - unchecked
-  - fixed
-  - using: u
-  - lock
-
+  - if: 🖐️ used
+  - else: 🖐️ used
+  - switch: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - foreach: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - goto: 🎓 known
+  - return: 🖐️ used
+  - throw: 🖐️ used
+  - try..catch..finally: 🖐️ used
 - Standart objects and namespaces
-  - System.Console: u
-  - System.Math: u
+  - System.Console: 🖐️ used
+  - System.Math: 🖐️ used
   - System.Text.RegularExpressions
-  - System.Threading: h
+  - System.Threading: 👂 heard
   - System.Threading.Tasks
   - System.IO
-  - System.Linq: h
-  - System.Collections: u
-  - System.Diagnostics: h
+  - System.Linq: 👂 heard
+  - System.Collections: 🖐️ used
+  - System.Diagnostics: 👂 heard
   - System.Globalization
   - System.Net
   - System.Net.Http
   - System.Reflection
   - System.Runtime.InteropServices
-  - System.Text.Json: u
+  - System.Text.Json: 🖐️ used
   - System.Xml
   - System.Data
   - System.Numerics
-
 - OOP
-  - class: u
-  - struct: k
-  - interface: u
-  - enum: k
-  - record: h
-  - methods: u
-  - fields: u
-  - properties: u
-  - get property accesor: u
-  - set property accesor: u
-  - init property accesor: u
-  - public access modifier: u
-  - private access modifier: u
-  - protected access modifier: u
-  - internal access modifier: h
-  - sealed: k
-  - static: u
-  - partial: h
-  - readonly: u
-  - abstract: u
-  - Constructors: u
-  - Destructors: h
-  - this: u
-  - Inheritance: k
-  - Encapsulation: k
-  - Polymorphism: k
-  - Method overriding: u
-  - Method hiding: h
-
+  - class: 🖐️ used
+  - struct: 🎓 known
+  - interface: 🖐️ used
+  - enum: 🎓 known
+  - record: 👂 heard
+  - methods: 🖐️ used
+  - fields: 🖐️ used
+  - properties: 🖐️ used
+  - get property accesor: 🖐️ used
+  - set property accesor: 🖐️ used
+  - init property accesor: 🖐️ used
+  - public access modifier: 🖐️ used
+  - private access modifier: 🖐️ used
+  - protected access modifier: 🖐️ used
+  - internal access modifier: 👂 heard
+  - sealed: 🎓 known
+  - static: 🖐️ used
+  - partial: 👂 heard
+  - readonly: 🖐️ used
+  - abstract: 🖐️ used
+  - Constructors: 🖐️ used
+  - Destructors: 👂 heard
+  - Inheritance: 🎓 known
+  - Encapsulation: 🎓 known
+  - Polymorphism: 🎓 known
+  - Method overriding: 🖐️ used
+  - Method hiding: 👂 heard
 - Data Structures
-  - Array: u
-  - Tuple: k
-  - ValueTuple: u
-  - List<T>: u
-  - Dictionary<TKey, TValue>: u
-  - HashSet<T>: h
-  - Queue<T>: h
-  - Stack<T>: h
-  - LinkedList<T>: h
+  - Array: 🖐️ used
+  - Tuple: 🎓 known
+  - ValueTuple: 🖐️ used
+  - List<T>: 🖐️ used
+  - Dictionary<TKey, TValue>: 🖐️ used
+  - HashSet<T>: 👂 heard
+  - Queue<T>: 👂 heard
+  - Stack<T>: 👂 heard
+  - LinkedList<T>: 👂 heard
   - SortedList<TKey, TValue>
   - SortedDictionary<TKey, TValue>
   - ObservableCollection<T>
   - ReadOnlyCollection<T>
   - ImmutableList<T>
   - ImmutableDictionary<TKey, TValue>
-  - ArrayList: k
- 
+  - ArrayList: 🎓 known
 - Linq
-  - Method syntax: k
-  - Query syntax: h
-  - Any: u
-  - All: u
-  - Count: h
-  - Contains: u
+  - Method syntax: 🎓 known
+  - Query syntax: 👂 heard
+  - Any: 🖐️ used
+  - All: 🖐️ used
+  - Count: 👂 heard
+  - Contains: 🖐️ used
   - OrderBy
   - MinMax
   - Average
   - Sum
   - ElementAt
   - First and Last
-  - Single
-  - Where: h
-  - Select: h
+  - Where: 👂 heard
+  - Select: 👂 heard
   - Take
   - Skip
   - OfType
@@ -187,7 +175,6 @@
   - Join
   - Aggregate
   - Zip
-
 - Infrastructure
-  - .NET Framework: h
-  - .NET Core: h
+  - .NET Framework: 👂 heard
+  - .NET Core: 👂 heard

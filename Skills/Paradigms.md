@@ -1,19 +1,19 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: h
+  - Procedural programming: 👂 heard
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming: h
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming: u
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming: h
-  - Parallel programming: h
-  - Reactive programming: h
+  - Asynchronous programming: 👂 heard
+  - Parallel programming: 👂 heard
+  - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -27,27 +27,27 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor: u
-  - Operator `new`: u
-  - Static method: u
-  - Method: u
-  - Async method: h
-  - Getters, Setters: u
-  - Public fields: u
-  - Private fields: u
-  - Field declarations: u
-  - Inheritance: u
-  - Parent class: k
-  - Polymorphism: k
-  - Abstract class: k
-  - Interface: u
-  - Encapsulation: k
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 👂 heard
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🎓 known
+  - Polymorphism: 🎓 known
+  - Abstract class: 🎓 known
+  - Interface: 🖐️ used
+  - Encapsulation: 🎓 known
   - Hidden class
   - Object form
-  - Instance: k
+  - Instance: 🎓 known
   - Introspection
-  - Reflection: h
-  - The diamond problem: h
+  - Reflection: 👂 heard
+  - The diamond problem: 👂 heard
 - GRASP
   - Information expert
   - Creator
@@ -58,11 +58,11 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP): k
-  - Open–closed principle (OCP): h
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 👂 heard
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP): k 
+  - Dependency inversion principle (DIP): 🎓 known
 - Patterns
   - Singleton
   - Factory Method

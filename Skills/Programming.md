@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: h
+  - Model: 👂 heard
   - Modeling
-  - Subject domain: h
+  - Subject domain: 👂 heard
   - Algorithm: 👂 heard
-  - Syntax: k
-  - Semantics: h
-  - Abstraction: u
+  - Syntax: 🎓 known
+  - Semantics: 👂 heard
+  - Abstraction: 🖐️ used
   - Paradigm: 👂 heard
-  - Programm: k
+  - Programm: 🎓 known
   - Programming paradigm
   - Programming language
   - Contract: 👂 heard
   - Module: 👂 heard
-  - Library: k
-  - Package: k
-  - Component: h
-  - Framework: h
-  - Platform: h
-  - Source code: k
+  - Library: 🎓 known
+  - Package: 🎓 known
+  - Component: 👂 heard
+  - Framework: 👂 heard
+  - Platform: 👂 heard
+  - Source code: 🎓 known
   - Object code
-  - Machine code: h
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering: h
+  - Software engineering: 👂 heard
   - Decomposition: 👂 heard
-  - Control flow: u
+  - Control flow: 🖐️ used
   - Data flow
-  - Code reuse: u
+  - Code reuse: 🖐️ used
   - Defensive programming
-  - Don't repeat yourself (DRY): h
-  - KISS principle: h
+  - Don't repeat yourself (DRY): 👂 heard
+  - KISS principle: 👂 heard
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
@@ -57,26 +57,26 @@
   - Interface: 👂 heard
   - Namespaces
   - Call stack: 👂 heard
-  - Naming conventions: u
+  - Naming conventions: 🖐️ used
   - Coding conventions
-  - Camel case: u
-  - Snake case: k
+  - Camel case: 🖐️ used
+  - Snake case: 🎓 known
   - Kebab case
-  - Trailing commas: h
+  - Trailing commas: 👂 heard
   - Return early: 👂 heard
   - Fail-fast
 - Types
   - Primitive types: 🖐️ used
   - Reference types: 🖐️ used
   - Type systems
-  - Strong typing: h
-  - Weak typing: h
-  - Duck typing: h
-  - Static typing: u
-  - Dynamic typing: u
+  - Strong typing: 👂 heard
+  - Weak typing: 👂 heard
+  - Duck typing: 👂 heard
+  - Static typing: 🖐️ used
+  - Dynamic typing: 🖐️ used
   - Nominal typing
   - Structural typing
-  - Explicit typing: u
+  - Explicit typing: 🖐️ used
   - Type inference
   - Covariance
   - Contravariance
@@ -112,62 +112,62 @@
   - Instance: 🖐️ used
   - Object: 🖐️ used
   - Collection: 🖐️ used
-  - Set: k
-  - Hash table: u
-  - Linked list: k
-  - Doubly list: k
+  - Set: 🎓 known
+  - Hash table: 🖐️ used
+  - Linked list: 🎓 known
+  - Doubly list: 🎓 known
   - Unrolled list: 👂 heard
   - Circular list: 👂 heard
-  - Queue: k
-  - Stack: k
-  - Deque: c
+  - Queue: 🎓 known
+  - Stack: 🎓 known
+  - Deque: 🚀 constructed
   - Tree: 👂 heard
-  - Graph: k
+  - Graph: 🎓 known
   - Iterator: 🖐️ used
   - Mutable state: 🎓 known
   - Immutable state: 🎓 known
   - Serialization: 🖐️ used
   - String parsing: 🖐️ used
-  - JSON: u
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
-  - DNS: k
+  - DNS: 🎓 known
   - CDN
   - CORS
-  - IPv4: k
-  - IPv6: k
-  - NAT: h
-  - URL: u
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
+  - NAT: 👂 heard
+  - URL: 🖐️ used
   - URN
   - URI
 - Process and tools
   - Compiler: 🎓 known
-  - Just-in-time compilation: k
-  - Ahead-of-time compilation: k
+  - Just-in-time compilation: 🎓 known
+  - Ahead-of-time compilation: 🎓 known
   - Transpiler: 🎓 known
   - Linter: 🎓 known
   - Polyfill: 👂 heard
-  - Interpreter: k
-  - Linker: h
+  - Interpreter: 🎓 known
+  - Linker: 👂 heard
   - Dynamic linking
   - Static linking
-  - Runtime: k
-  - Virtual machine: h
+  - Runtime: 🎓 known
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger: u
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection: 👂 heard
-  - Refactoring: u
+  - Refactoring: 🖐️ used
   - Code review: 🎓 known
-  - Exception: k
-  - Unittesting: h
+  - Exception: 🎓 known
+  - Unittesting: 👂 heard
   - git: 🖐️ used
   - Github: 🖐️ used
-  - Docker: h
-  - Kubernetes: h
+  - Docker: 👂 heard
+  - Kubernetes: 👂 heard
   - GCC
   - LLVM
 - Antipatterns
@@ -186,7 +186,7 @@
   - Duplicate code: 👂 heard
   - Premature optimization
   - Micro-optimization
-  - Nested loops: k
+  - Nested loops: 🎓 known
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -202,10 +202,10 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode: h
-  - V8: h
-  - VJM: h
-  - CLR: h
+  - Bytecode: 👂 heard
+  - V8: 👂 heard
+  - VJM: 👂 heard
+  - CLR: 👂 heard
   - Mono
 - Operating systems
   - Interrupts
@@ -214,16 +214,16 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux: h
-  - Unix: h
+  - Linux: 👂 heard
+  - Unix: 👂 heard
   - BSD
-  - MacOS: h
-  - Windows: u
-  - Real-time OS: h
-  - Embedded OS: h
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
+  - Real-time OS: 👂 heard
+  - Embedded OS: 👂 heard
 - Standards
   - ASCII
-  - Escape sequence: h
+  - Escape sequence: 👂 heard
   - RFC
   - IETF
   - IANA
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8: h
+  - UTF-8: 👂 heard
   - W3C
   - ODMG
