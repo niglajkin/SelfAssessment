@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model: h
   - Modeling
-  - Subject domain
+  - Subject domain: h
   - Algorithm: 👂 heard
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Syntax: k
+  - Semantics: h
+  - Abstraction: u
   - Paradigm: 👂 heard
-  - Programm
+  - Programm: k
   - Programming paradigm
   - Programming language
   - Contract: 👂 heard
   - Module: 👂 heard
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
+  - Library: k
+  - Package: k
+  - Component: h
+  - Framework: h
+  - Platform: h
+  - Source code: k
   - Object code
-  - Machine code
+  - Machine code: h
   - Microcode
-  - Software engineering
+  - Software engineering: h
   - Decomposition: 👂 heard
-  - Control flow
+  - Control flow: u
   - Data flow
-  - Code reuse
+  - Code reuse: u
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY): h
+  - KISS principle: h
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
@@ -57,26 +57,26 @@
   - Interface: 👂 heard
   - Namespaces
   - Call stack: 👂 heard
-  - Naming conventions
+  - Naming conventions: u
   - Coding conventions
-  - Camel case
-  - Snake case
+  - Camel case: u
+  - Snake case: k
   - Kebab case
-  - Trailing commas
+  - Trailing commas: h
   - Return early: 👂 heard
   - Fail-fast
 - Types
   - Primitive types: 🖐️ used
   - Reference types: 🖐️ used
   - Type systems
-  - Strong typing
-  - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Strong typing: h
+  - Weak typing: h
+  - Duck typing: h
+  - Static typing: u
+  - Dynamic typing: u
   - Nominal typing
   - Structural typing
-  - Explicit typing
+  - Explicit typing: u
   - Type inference
   - Covariance
   - Contravariance
@@ -112,62 +112,62 @@
   - Instance: 🖐️ used
   - Object: 🖐️ used
   - Collection: 🖐️ used
-  - Set: 👂 heard
-  - Hash table: 👂 heard
-  - Linked list: 👂 heard
-  - Doubly list: 👂 heard
+  - Set: k
+  - Hash table: u
+  - Linked list: k
+  - Doubly list: k
   - Unrolled list: 👂 heard
   - Circular list: 👂 heard
-  - Queue: 👂 heard
-  - Stack: 👂 heard
-  - Deque
+  - Queue: k
+  - Stack: k
+  - Deque: c
   - Tree: 👂 heard
-  - Graph: 👂 heard
+  - Graph: k
   - Iterator: 🖐️ used
   - Mutable state: 🎓 known
   - Immutable state: 🎓 known
   - Serialization: 🖐️ used
   - String parsing: 🖐️ used
-  - JSON
+  - JSON: u
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS: k
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4: k
+  - IPv6: k
+  - NAT: h
+  - URL: u
   - URN
   - URI
 - Process and tools
   - Compiler: 🎓 known
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Just-in-time compilation: k
+  - Ahead-of-time compilation: k
   - Transpiler: 🎓 known
   - Linter: 🎓 known
   - Polyfill: 👂 heard
-  - Interpreter
-  - Linker
+  - Interpreter: k
+  - Linker: h
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime: k
+  - Virtual machine: h
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger: 👂 heard
+  - Debugger: u
   - Tracing
   - Garbage collection: 👂 heard
-  - Refactoring: 🎓 known
+  - Refactoring: u
   - Code review: 🎓 known
-  - Exception: 👂 heard
-  - Unittesting
+  - Exception: k
+  - Unittesting: h
   - git: 🖐️ used
   - Github: 🖐️ used
-  - Docker
-  - Kubernetes
+  - Docker: h
+  - Kubernetes: h
   - GCC
   - LLVM
 - Antipatterns
@@ -186,7 +186,7 @@
   - Duplicate code: 👂 heard
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops: k
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -202,10 +202,10 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
-  - VJM
-  - CLR
+  - Bytecode: h
+  - V8: h
+  - VJM: h
+  - CLR: h
   - Mono
 - Operating systems
   - Interrupts
@@ -214,16 +214,16 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux: h
+  - Unix: h
   - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - MacOS: h
+  - Windows: u
+  - Real-time OS: h
+  - Embedded OS: h
 - Standards
   - ASCII
-  - Escape sequence
+  - Escape sequence: h
   - RFC
   - IETF
   - IANA
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: h
   - W3C
   - ODMG
