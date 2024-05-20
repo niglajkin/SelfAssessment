@@ -1,0 +1,191 @@
+- Language
+  - Value and reference types
+  - Boolean
+  - Byte
+  - SByte
+  - Char
+  - Decimal
+  - Double
+  - Single
+  - Int32
+  - UInt32
+  - Int64
+  - UInt64
+  - Int16
+  - UInt16
+  - String
+  - Action
+  - Func
+  - Predicate
+  - Nullable<T>
+  - this
+  - typeof
+  - is
+  - as
+  - when
+  - null
+  - default
+  - var
+  - dynamic
+  - checked
+  - unchecked
+  - const
+  - volatile
+  - lock
+  - unsafe
+  - fixed
+  - sizeof
+  - stackalloc
+  - in
+  - ref
+  - out
+  - params
+  - yield
+  - await
+  - async
+  - Task
+  - ValueTask
+  - IAsyncEnumerable<T>
+  - IAsyncEnumerator<T>
+  - Lambda expressions
+  - Equality operators
+  - Logical operators
+  - Ternary operator
+  - null-coalescing operator ??
+  - null-conditional operator ?.
+  - String interpolation
+  - Pattern matching
+  - Indexers
+  - Expression-bodied members
+  - nameof
+  - Attributes
+  - Extension methods
+  - Generic types
+  - Delegates
+  - Covariance and contravariance
+  - Boxing and unboxing
+  - IDisposable
+  - using
+  - Span<T> and Memory<T>
+
+- Statements
+  - if
+  - else
+  - switch
+  - while
+  - do..while
+  - for
+  - foreach
+  - break
+  - continue
+  - goto
+  - return
+  - throw
+  - try..catch..finally
+  - checked
+  - unchecked
+  - fixed
+  - using
+  - lock
+
+- Standart objects and namespaces
+  - System.Console
+  - System.Math
+  - System.Text.RegularExpressions
+  - System.Threading
+  - System.Threading.Tasks
+  - System.IO
+  - System.Linq
+  - System.Collections
+  - System.Diagnostics
+  - System.Globalization
+  - System.Net
+  - System.Net.Http
+  - System.Reflection
+  - System.Runtime.InteropServices
+  - System.Text.Json
+  - System.Xml
+  - System.Data
+  - System.Numerics
+
+- OOP
+  - class
+  - struct
+  - interface
+  - enum
+  - record
+  - methods
+  - fields
+  - properties
+  - get property accesor
+  - set property accesor
+  - init property accesor
+  - public access modifier
+  - private access modifier
+  - protected access modifier
+  - internal access modifier
+  - sealed
+  - static
+  - partial
+  - readonly
+  - abstract
+  - Constructors
+  - Destructors
+  - this
+  - Inheritance
+  - Encapsulation
+  - Polymorphism
+  - Method overriding
+  - Method hiding
+
+- Data Structures
+  - Array
+  - Tuple
+  - ValueTuple
+  - List<T>
+  - Dictionary<TKey, TValue>
+  - HashSet<T>
+  - Queue<T>
+  - Stack<T>
+  - LinkedList<T>
+  - SortedList<TKey, TValue>
+  - SortedDictionary<TKey, TValue>
+  - ObservableCollection<T>
+  - ReadOnlyCollection<T>
+  - ImmutableList<T>
+  - ImmutableDictionary<TKey, TValue>
+  - ArrayList
+
+- Linq
+  - Method syntax
+  - Query syntax
+  - Any
+  - All
+  - Count
+  - Contains
+  - OrderBy
+  - MinMax
+  - Average
+  - Sum
+  - ElementAt
+  - First and Last
+  - Single
+  - Where
+  - Select
+  - Take
+  - Skip
+  - OfType
+  - Distinct
+  - Prepend and Append
+  - Concat and Union
+  - GroupBy
+  - Collection type change
+  - Intersect
+  - Except
+  - Join
+  - Aggregate
+  - Zip
+
+- Infrastructure
+  - .NET Framework
+  - .NET Core
