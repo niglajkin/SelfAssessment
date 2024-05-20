@@ -1,167 +1,179 @@
 ## C#
 
 - Language
-  - Value and reference types
-  - Boolean
-  - Byte
+  - Value and reference types: k
+  - Boolean: u
+  - Byte: k
   - SByte
-  - Char
-  - Decimal
-  - Double
+  - Char: u
+  - Decimal: k
+  - Double: u
   - Single
-  - Int32
-  - UInt32
-  - Int64
-  - UInt64
-  - Int16
-  - UInt16
-  - String
-  - Action
-  - Func
-  - Predicate
-  - Nullable<T>
-  - this
-  - typeof
-  - is
-  - as
-  - when
-  - null
-  - default
-  - var
+  - Int32: u
+  - UInt32: k
+  - Int64: k
+  - UInt64: k
+  - Int16: k
+  - UInt16: k
+  - String: u
+  - Action: k
+  - Func: k
+  - Predicate: k
+  - Nullable<T>: h
+  - this: u
+  - typeof: k
+  - is: k
+  - as: h
+  - when: h
+  - null: k
+  - default: k
+  - var: u
   - dynamic
   - checked
   - unchecked
-  - const
+  - const: u
   - volatile
   - lock
   - unsafe
   - fixed
-  - sizeof
+  - sizeof: h
   - stackalloc
-  - in
-  - ref
-  - out
-  - params
-  - yield
-  - await
-  - async
-  - Task
+  - in: u
+  - ref: h
+  - out: h
+  - params: u
+  - yield: h
+  - await: h
+  - async: h
+  - Task: h
   - ValueTask
   - IAsyncEnumerable<T>
   - IAsyncEnumerator<T>
-  - Lambda expressions
-  - Equality operators
-  - Logical operators
-  - Ternary operator
+  - Lambda expressions: u
+  - Equality operators: u
+  - Logical operators: u
+  - Ternary operator: u
   - null-coalescing operator ??
   - null-conditional operator ?.
-  - String interpolation
+  - String interpolation: u
   - Pattern matching
   - Indexers
-  - Expression-bodied members
-  - nameof
+  - Expression-bodied members: u
+  - nameof: h
   - Attributes
-  - Extension methods
-  - Generic types
-  - Delegates
+  - Extension methods: u
+  - Generic types: u
+  - Delegates: k
   - Covariance and contravariance
-  - Boxing and unboxing
+  - Boxing and unboxing: k
   - IDisposable
-  - using
+  - using: u
   - Span<T> and Memory<T>
+
 - Statements
-  - if
-  - else
-  - switch
-  - while
-  - do..while
-  - for
-  - foreach
-  - break
-  - continue
-  - goto
-  - return
-  - throw
-  - try..catch..finally
+  - if: u
+  - else: u
+  - switch: u
+  - while: u
+  - do..while: u
+  - for: u
+  - foreach: u
+  - break: u
+  - continue: u
+  - goto: k
+  - return: u
+  - throw: u
+  - try..catch..finally: u
+  - checked
+  - unchecked
+  - fixed
+  - using: u
+  - lock
+
 - Standart objects and namespaces
-  - System.Console
-  - System.Math
+  - System.Console: u
+  - System.Math: u
   - System.Text.RegularExpressions
-  - System.Threading
+  - System.Threading: h
   - System.Threading.Tasks
   - System.IO
-  - System.Linq
-  - System.Collections
-  - System.Diagnostics
+  - System.Linq: h
+  - System.Collections: u
+  - System.Diagnostics: h
   - System.Globalization
   - System.Net
   - System.Net.Http
   - System.Reflection
   - System.Runtime.InteropServices
-  - System.Text.Json
+  - System.Text.Json: u
   - System.Xml
   - System.Data
   - System.Numerics
+
 - OOP
-  - class
-  - struct
-  - interface
-  - enum
-  - record
-  - methods
-  - fields
-  - properties
-  - get property accesor
-  - set property accesor
-  - init property accesor
-  - public access modifier
-  - private access modifier
-  - protected access modifier
-  - internal access modifier
-  - sealed
-  - static
-  - partial
-  - readonly
-  - abstract
-  - Constructors
-  - Destructors
-  - Inheritance
-  - Encapsulation
-  - Polymorphism
-  - Method overriding
-  - Method hiding
+  - class: u
+  - struct: k
+  - interface: u
+  - enum: k
+  - record: h
+  - methods: u
+  - fields: u
+  - properties: u
+  - get property accesor: u
+  - set property accesor: u
+  - init property accesor: u
+  - public access modifier: u
+  - private access modifier: u
+  - protected access modifier: u
+  - internal access modifier: h
+  - sealed: k
+  - static: u
+  - partial: h
+  - readonly: u
+  - abstract: u
+  - Constructors: u
+  - Destructors: h
+  - this: u
+  - Inheritance: k
+  - Encapsulation: k
+  - Polymorphism: k
+  - Method overriding: u
+  - Method hiding: h
+
 - Data Structures
-  - Array
-  - Tuple
-  - ValueTuple
-  - List<T>
-  - Dictionary<TKey, TValue>
-  - HashSet<T>
-  - Queue<T>
-  - Stack<T>
-  - LinkedList<T>
+  - Array: u
+  - Tuple: k
+  - ValueTuple: u
+  - List<T>: u
+  - Dictionary<TKey, TValue>: u
+  - HashSet<T>: h
+  - Queue<T>: h
+  - Stack<T>: h
+  - LinkedList<T>: h
   - SortedList<TKey, TValue>
   - SortedDictionary<TKey, TValue>
   - ObservableCollection<T>
   - ReadOnlyCollection<T>
   - ImmutableList<T>
   - ImmutableDictionary<TKey, TValue>
-  - ArrayList
+  - ArrayList: k
+ 
 - Linq
-  - Method syntax
-  - Query syntax
-  - Any
-  - All
-  - Count
-  - Contains
+  - Method syntax: k
+  - Query syntax: h
+  - Any: u
+  - All: u
+  - Count: h
+  - Contains: u
   - OrderBy
   - MinMax
   - Average
   - Sum
   - ElementAt
   - First and Last
-  - Where
-  - Select
+  - Single
+  - Where: h
+  - Select: h
   - Take
   - Skip
   - OfType
@@ -175,6 +187,7 @@
   - Join
   - Aggregate
   - Zip
+
 - Infrastructure
-  - .NET Framework
-  - .NET Core
+  - .NET Framework: h
+  - .NET Core: h
